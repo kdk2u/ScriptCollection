@@ -17,7 +17,7 @@ local plr = game.Players.LocalPlayer
 local chr = plr.Character
 local primary = plr.ReplicationFocus
 local car = primary.Parent
-primary.Velocity = primary.CFrame.LookVector*100
+primary.Velocity = primary.CFrame.LookVector*750
 task.wait(0.1)
 car:PivotTo(location)
 end
