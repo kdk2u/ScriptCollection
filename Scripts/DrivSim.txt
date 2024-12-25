@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kdk2u/ScriptCollection/refs/heads/main/GitHub/Collection/ForDrivSim/drivSim1.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kdk2u/ScriptCollection/refs/heads/main/Scripts/ForDrivSim/drivSim1.txt"))()
